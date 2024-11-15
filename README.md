@@ -12,7 +12,7 @@
      PPLG 2
     </h1>
     <p>
-     Dapatkan lebih banyak informasi tentang kami dan ikuti cerita kita
+     Dapatkan lebih banyak informasi tentang kami dan ikuti cerita
      <br>
      kerandoman kami semua
     </p>
