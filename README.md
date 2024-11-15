@@ -60,25 +60,31 @@
    </h2>
    <div class="kartu">
     <div class="card">
+        <div class="tanggal">
+            14 Agustus 2024
+           </div>
      <img height="200" src="FOTO/agustus.jpg" width="200"/>
      <p>
-      14 Agustus 2024
       <br/>
       Lomba Agustusan
      </p>
     </div>
     <div class="card">
-     <img alt="Group photo of students" height="200" src="FOTO/pilkasa.jpg" width="200"/>
+        <div class="tanggal">
+            11 Oktober 2024
+           </div>
+     <img height="200" src="FOTO/pilkasa.jpg" width="200"/>
      <p>
-      11 Oktober 2024
       <br/>
       Pilkasa 2024
      </p>
     </div>
     <div class="card">
-     <img alt="Students celebrating a religious event" height="200" src="FOTO/maulid.jpg" width="200"/>
+        <div class="tanggal">
+            14 September 2024
+           </div>
+     <img height="200" src="FOTO/maulid.jpg" width="200"/>
      <p>
-      14 September 2024
       <br/>
       Maulid Nabi Muhammad SAW
      </p>
