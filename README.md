@@ -1,5 +1,8 @@
 <html>
  <head>
+  <title>
+   PPLG 2
+  </title>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="pplg2.css">
@@ -26,21 +29,21 @@
      ABSENSI SISWA
     </p>
 </a>
-   <a href="" class="item">
+   <a href="struktur.html" class="item">
     <i class="fas fa-users-cog">
     </i>
     <p>
      STRUKTUR ORGANISASI KELAS
     </p>
 </a>
-   <a href="" class="item">
+   <a href="profil.html" class="item">
     <i class="fas fa-user-graduate">
     </i>
     <p>
      PROFIL SISWA
     </p>
 </a>
-   <a href="" class="item">
+   <a href="history.html" class="item">
     <i class="fas fa-history">
     </i>
     <p>
