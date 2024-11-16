@@ -211,9 +211,9 @@ mark {
 /* Definisi animasi */
 @keyframes scroll-text {
     0% {
-        transform: translateX(700%);
+        transform: translateX(-600%);
     }
     100% {
-        transform: translateX(-600%);
+        transform: translateX(700%);
     }
 }
