@@ -44,25 +44,28 @@
     </p>
 </a>
    <a href="history.html" class="item">
-    <i class="fas fa-history">
+    <i class="fas fa-dollar-sign">
     </i>
     <p>
-     HISTORY
+     KAS
     </p>
 </a>
   </div>
+  <div class="jalan">
+    <div class="jln">
+        <p>Sekilas informasi terkait pplg</p>
+        <p>Sekilas informasi terkait pplg</p>
+        <p>Sekilas informasi terkait pplg</p>
+        <p>Sekilas informasi terkait pplg</p>
+        <p>Sekilas informasi terkait pplg</p>
+    </div>
+</div>
   <div class="highlight">
-   <h2>
-    PPLG 2 <mark>HIGHLIGHT</mark>
-   </h2>
    <h2 class="kata2">
     First step towards the future!!
    </h2>
    <div class="kartu">
     <div class="card">
-        <div class="tanggal">
-            14 Agustus 2024
-           </div>
      <img height="200" src="FOTO/agustus.jpg" width="200"/>
      <p>
       <br/>
@@ -70,9 +73,6 @@
      </p>
     </div>
     <div class="card">
-        <div class="tanggal">
-            11 Oktober 2024
-           </div>
      <img height="200" src="FOTO/pilkasa.jpg" width="200"/>
      <p>
       <br/>
@@ -80,9 +80,6 @@
      </p>
     </div>
     <div class="card">
-        <div class="tanggal">
-            14 September 2024
-           </div>
      <img height="200" src="FOTO/maulid.jpg" width="200"/>
      <p>
       <br/>
@@ -91,11 +88,6 @@
     </div>
    </div>
   </div>
-  <div class="lebih">
-    <button>
-     lebih banyak &gt;
-    </button>
-   </div>
   <div class="orang">
    <div class="org">
     <h3>
@@ -135,7 +127,7 @@
     PPLG 2
    </h2>
    <br>
-   <br>
+   <h3>Sosial Media Kami</h3>
    <div class="social">
     <p>
      <i class="fab fa-instagram">
