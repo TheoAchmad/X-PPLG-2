@@ -37,13 +37,14 @@ body {
 .menu {
     display: flex;
     justify-content: center;
-    margin: 20px 0;
+    margin: 100px 0;
+    object-fit: cover;
 }
 .menu .item {
     background-color: #FAF6E3;
     border-radius: 15px;
     padding: 20px;
-    margin: 0 10px;
+    margin: 0 20px;
     text-align: center;
     width: 150px;
     box-shadow: black 0 10px 10px;
@@ -55,7 +56,7 @@ body {
 
 .highlight {
     text-align: center;
-    margin: 40px 0;
+    margin-bottom: 150px;
 }
 .highlight h2 {
     color: #d4a373;
@@ -63,35 +64,33 @@ body {
 }
 .highlight .kata2 {
     color: #7a7a7a;
-    font-size: 40px;
+    font-size: 60px;
 }
 .highlight .kartu {
     display: flex;
     justify-content: center;
     margin-top: 20px;
 }
-.highlight .card {
-    background-color: white;
-    border-radius: 10px;
-    margin: 0 10px;
-    box-shadow: black 0 10px 10px;
-}
+
 .highlight .card img {
     width: 85%;
     border-radius: 20px;
+    object-fit: cover;
 }
 .highlight .card p {
     padding: 10px;
-    font-size: 14px;
+    font-size: 34px;
+    color: #7a7a7a;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .orang {
     display: flex;
     justify-content: center;
-    background-color: #CDC2A59E;
     padding: 20px 0;
     margin: 40px 0;
-    color: white;
+    color: #7a7a7a;
+    line-height: 2;
 }
 .orang .org {
     text-align: center;
@@ -149,6 +148,10 @@ body {
     font-size: 50px;
     text-decoration: underline;
 }
+.copyright h3 {
+    margin: 0;
+    font-size: 40px;
+}
 .copyright .social {
     margin-top: 10px;
 }
@@ -181,12 +184,36 @@ mark {
     background-color: #f5f5f5;
 }
 
-.tanggal {
-    background-color: #d3c6b1;
-    color: white;
-    padding: 5px 10px;
+.jalan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+/* Animasi teks berjalan */
+.jln {
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%; /* Ukuran kontainer marquee */
+    background-color: #7a7a7a;
+}
+
+.jln p {
     display: inline-block;
-    margin-top: -20px;
-    position: relative;
-    z-index: 1;
+    animation: scroll-text 15s linear infinite;
+    font-size: 24px;
+    color: #ffffff;
+    margin-right: 50px;
+}
+
+/* Definisi animasi */
+@keyframes scroll-text {
+    0% {
+        transform: translateX(700%);
+    }
+    100% {
+        transform: translateX(-600%);
+    }
 }
