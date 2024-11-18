@@ -239,6 +239,7 @@ mark {
     margin: 100px 0;
     object-fit: cover;
     height: 50%;
+    animation: scroll-all 15s linear infinite;
 }
 .info .item {
     background-color: #ffffff;
@@ -248,4 +249,12 @@ mark {
     text-align: center;
     width: 50%;
     border: 1px solid #7a7a7a;
+}
+@keyframes scroll-all {
+    0% {
+        transform: translateX(-80%);
+    }
+    100% {
+        transform: translateX(80%);
+    }
 }
