@@ -22,28 +22,28 @@
    </div>
   </div>
   <div class="menu">
-   <a href="absensi.html" class="item">
+   <a href="Samping/absensi.html" class="item">
     <i class="fas fa-calendar-check">
     </i>
     <p>
      ABSENSI SISWA
     </p>
 </a>
-   <a href="struktur.html" class="item">
+   <a href="Samping/struktur.html" class="item">
     <i class="fas fa-users-cog">
     </i>
     <p>
      STRUKTUR ORGANISASI KELAS
     </p>
 </a>
-   <a href="profil.html" class="item">
+   <a href="Samping/profil.html" class="item">
     <i class="fas fa-user-graduate">
     </i>
     <p>
      PROFIL SISWA
     </p>
 </a>
-   <a href="history.html" class="item">
+   <a href="Samping/kas.html" class="item">
     <i class="fas fa-dollar-sign">
     </i>
     <p>
@@ -88,6 +88,37 @@
     </div>
    </div>
   </div>
+  <div class="informasi">
+    <div class="judul">Information</div>
+    <div class="update"></div>
+    <div class="info">
+    <a class="item">
+      <i class="fas fa-calendar-check">
+      </i>
+      <p>
+       Tanggal : 17 Agustus 1945
+       <br>
+       <br>
+       Isi Informasi : 
+       <br>
+       <br>
+       17 Agustus diperingati sebagai Hari Ulang Tahun (HUT) Kemerdekaan Republik Indonesia (RI). Pada tanggal 17 Agustus 1945, Indonesia memproklamasikan kemerdekaannya dari penjajahan. Peringatan HUT RI memiliki makna yang mendalam bagi setiap warga negara Indonesia, di antaranya: 
+Menghargai jasa-jasa para pahlawan yang telah berjuang tanpa pamrih 
+Menumbuhkan rasa nasionalisme di kalangan generasi muda 
+Menandakan kelahiran sumber hukum di Indonesia yang mengatur ketatanegaraan secara menyeluruh 
+Cita-cita bangsa yang tercantum dalam proklamasi kemerdekaan menjadi arah gerak bangsa 
+Pada tahun 2024, peringatan HUT ke-79 Kemerdekaan RI mengusung tema "Nusantara Baru, Indonesia Maju". Tema ini menyiratkan semangat baru yang besar dengan persatuan dan kesetaraan untuk mencapai segala tujuan. 
+Beberapa kegiatan yang dilakukan dalam rangka memperingati HUT RI, di antaranya:
+Upacara bendera
+Membunyikan sirine dan tembakan kehormatan
+Membaca teks proklamasi
+Mengheningkan cipta
+Membaca doa
+Paskibraka mengibarkan Sang Merah Putih
+      </p>
+  </a>
+</div>
+</div>
   <div class="orang">
    <div class="org">
     <h3>
