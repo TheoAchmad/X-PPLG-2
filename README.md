@@ -96,25 +96,13 @@
       <i class="fas fa-calendar-check">
       </i>
       <p>
-       Tanggal : 17 Agustus 1945
+       Tanggal : 21 November 2024
        <br>
        <br>
        Isi Informasi : 
        <br>
        <br>
-       17 Agustus diperingati sebagai Hari Ulang Tahun (HUT) Kemerdekaan Republik Indonesia (RI). Pada tanggal 17 Agustus 1945, Indonesia memproklamasikan kemerdekaannya dari penjajahan. Peringatan HUT RI memiliki makna yang mendalam bagi setiap warga negara Indonesia, di antaranya: 
-Menghargai jasa-jasa para pahlawan yang telah berjuang tanpa pamrih 
-Menumbuhkan rasa nasionalisme di kalangan generasi muda 
-Menandakan kelahiran sumber hukum di Indonesia yang mengatur ketatanegaraan secara menyeluruh 
-Cita-cita bangsa yang tercantum dalam proklamasi kemerdekaan menjadi arah gerak bangsa 
-Pada tahun 2024, peringatan HUT ke-79 Kemerdekaan RI mengusung tema "Nusantara Baru, Indonesia Maju". Tema ini menyiratkan semangat baru yang besar dengan persatuan dan kesetaraan untuk mencapai segala tujuan. 
-Beberapa kegiatan yang dilakukan dalam rangka memperingati HUT RI, di antaranya:
-Upacara bendera
-Membunyikan sirine dan tembakan kehormatan
-Membaca teks proklamasi
-Mengheningkan cipta
-Membaca doa
-Paskibraka mengibarkan Sang Merah Putih
+       " kamis 21 November diadakan lomba content creative, talkshow, story telling dan pojok literasi "
       </p>
   </a>
 </div>
