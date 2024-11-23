@@ -224,7 +224,8 @@ mark {
 
 .informasi {
     margin-top: 50px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
 }
 .judul {
     text-align: center;
@@ -243,7 +244,8 @@ mark {
     margin: 100px 0;
     object-fit: cover;
     height: 50%;
-    animation: scroll-all 15s linear infinite;
+    animation: scroll-info 15s linear infinite;
+    overflow: hidden;
 }
 .info .item {
     background-color: #ffffff;
@@ -254,7 +256,7 @@ mark {
     width: 50%;
     border: 1px solid #7a7a7a;
 }
-@keyframes scroll-all {
+@keyframes scroll-info {
     0% {
         transform: translateX(-80%);
     }
