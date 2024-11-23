@@ -22,28 +22,28 @@
    </div>
   </div>
   <div class="menu">
-   <a href="Samping/absensi.html" class="item">
+   <a href="absensi.html" class="item">
     <i class="fas fa-calendar-check">
     </i>
     <p>
      ABSENSI SISWA
     </p>
 </a>
-   <a href="Samping/struktur.html" class="item">
+   <a href="jurnal.html" class="item">
     <i class="fas fa-users-cog">
     </i>
     <p>
-     STRUKTUR ORGANISASI KELAS
+     JURNAL KELAS
     </p>
 </a>
-   <a href="Samping/profil.html" class="item">
+   <a href="profil.html" class="item">
     <i class="fas fa-user-graduate">
     </i>
     <p>
      PROFIL SISWA
     </p>
 </a>
-   <a href="Samping/kas.html" class="item">
+   <a href="kas.html" class="item">
     <i class="fas fa-dollar-sign">
     </i>
     <p>
