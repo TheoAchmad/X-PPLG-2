@@ -224,6 +224,7 @@ mark {
 
 .informasi {
     margin-top: 50px;
+    background-color: rgb(255, 255, 255);
 }
 .judul {
     text-align: center;
@@ -243,7 +244,6 @@ mark {
     object-fit: cover;
     height: 50%;
     animation: scroll-all 15s linear infinite;
-    background-color: white;
 }
 .info .item {
     background-color: #ffffff;
