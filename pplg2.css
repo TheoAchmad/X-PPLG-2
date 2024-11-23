@@ -243,6 +243,7 @@ mark {
     object-fit: cover;
     height: 50%;
     animation: scroll-all 15s linear infinite;
+    background-color: white;
 }
 .info .item {
     background-color: #ffffff;
