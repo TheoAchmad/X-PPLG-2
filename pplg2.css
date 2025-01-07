@@ -39,6 +39,7 @@ body {
 
 .menu {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 100px 0;
     object-fit: cover;
@@ -47,7 +48,7 @@ body {
     background-color: #FAF6E3;
     border-radius: 15px;
     padding: 20px;
-    margin: 0 20px;
+    margin: 20px;
     text-align: center;
     width: 150px;
     box-shadow: black 0 10px 10px;
