@@ -74,6 +74,9 @@ body {
     justify-content: center;
     margin-top: 20px;
 }
+.card {
+    flex-shrink: 0;
+}
 
 .highlight .card img {
     width: 85%;
