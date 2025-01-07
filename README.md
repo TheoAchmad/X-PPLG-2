@@ -22,13 +22,20 @@
    </div>
   </div>
   <div class="menu">
+    <a href="pplg2.html" class="item">
+      <i class="fas fa-calendar-check">
+      </i>
+      <p>
+       HOME
+      </p>
+      </a>
    <a href="absensi.html" class="item">
     <i class="fas fa-calendar-check">
     </i>
     <p>
      ABSENSI SISWA
     </p>
-</a>
+    </a>
    <a href="jurnal.html" class="item">
     <i class="fas fa-users-cog">
     </i>
@@ -96,13 +103,13 @@
       <i class="fas fa-calendar-check">
       </i>
       <p>
-       Tanggal : 21 November 2024
+       Tanggal : 3 Januari 2025
        <br>
        <br>
        Isi Informasi : 
        <br>
        <br>
-       " kamis 21 November diadakan lomba content creative, talkshow, story telling dan pojok literasi "
+       " - "
       </p>
   </a>
 </div>
@@ -110,7 +117,7 @@
   <div class="orang">
    <div class="org">
     <h3>
-     36
+     35
     </h3>
     <p>
      Jumlah Siswa
@@ -118,7 +125,7 @@
    </div>
    <div class="org">
     <h3>
-     18
+     17
     </h3>
     <p>
      Laki - Laki
